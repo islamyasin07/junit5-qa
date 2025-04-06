@@ -1,0 +1,7 @@
+# Ignore Eclipse junk
+.settings/
+.classpath
+.project
+
+*.class
+bin/
